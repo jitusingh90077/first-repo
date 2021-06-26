@@ -1,0 +1,103 @@
+49:58:29.221569 dns-monitor Log continuation - Log started 2021-06-24T01:13:29.753669700Z
+49:58:29.221627 dns-monitor HostDnsMonitor: unchanged
+49:58:29.839749 MainPower Host resumed: Resumed 1 VMs
+49:58:31.227165 dns-monitor HostDnsMonitor: updating information
+49:58:31.227214 dns-monitor HostDnsMonitor: unchanged
+49:58:37.790227 USBPROXY usbLibGetDevices: Starting USB device enumeration
+49:58:37.790406 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+49:58:37.793690 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+49:58:37.794231 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+49:58:41.107299 dns-monitor HostDnsMonitor: updating information
+49:58:41.107325 dns-monitor HostDnsMonitor: unchanged
+49:58:44.189390 dns-monitor HostDnsMonitor: updating information
+49:58:44.189428 dns-monitor HostDnsMonitor: unchanged
+49:58:47.194590 dns-monitor HostDnsMonitor: updating information
+49:58:47.194616 dns-monitor HostDnsMonitor: unchanged
+49:58:52.701271 USBPROXY usbLibGetDevices: Starting USB device enumeration
+49:58:52.701445 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+49:58:52.704722 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+49:58:52.704792 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+49:58:52.705007 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+50:00:07.547190 USBPROXY usbLibGetDevices: Starting USB device enumeration
+50:00:07.547370 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+50:00:07.550258 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+50:00:07.550389 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+50:00:07.550703 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+50:00:11.737583 USBPROXY usbLibGetDevices: Starting USB device enumeration
+50:00:11.737811 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+50:00:11.741039 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+50:00:11.741116 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+50:00:11.741352 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+50:22:14.889368 USBPROXY usbLibGetDevices: Starting USB device enumeration
+50:22:14.889594 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+50:22:14.892910 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+50:22:14.892984 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+50:22:14.893224 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+50:22:54.758749 USBPROXY usbLibGetDevices: Starting USB device enumeration
+50:22:54.758999 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+50:22:54.762362 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+50:22:54.762541 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+50:22:54.762999 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+50:36:36.683394 dns-monitor HostDnsMonitor: updating information
+50:36:36.683426 dns-monitor HostDnsMonitor: unchanged
+50:36:39.608115 dns-monitor HostDnsMonitor: updating information
+50:36:39.608143 dns-monitor HostDnsMonitor: unchanged
+50:36:43.039208 dns-monitor HostDnsMonitor: updating information
+50:36:43.039258 dns-monitor HostDnsMonitor: unchanged
+50:43:58.801966 USBPROXY usbLibGetDevices: Starting USB device enumeration
+50:43:58.808880 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+50:43:58.808999 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+50:43:58.809331 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+51:09:25.321856 USBPROXY usbLibGetDevices: Starting USB device enumeration
+51:09:25.328834 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+51:09:25.328919 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+51:09:25.329223 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+51:11:55.617515 USBPROXY usbLibGetDevices: Starting USB device enumeration
+51:11:55.617774 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+51:11:55.621262 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+51:11:55.621375 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+51:11:55.621691 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+51:19:38.459216 USBPROXY usbLibGetDevices: Starting USB device enumeration
+51:19:38.459438 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+51:19:38.463090 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+51:19:38.463270 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+51:19:38.463672 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+51:29:11.252370 dns-monitor HostDnsMonitor: updating information
+51:29:11.252424 dns-monitor HostDnsMonitor: unchanged
+51:36:43.056715 dns-monitor HostDnsMonitor: updating information
+51:36:43.056746 dns-monitor HostDnsMonitor: unchanged
+52:29:11.270012 dns-monitor HostDnsMonitor: updating information
+52:29:11.270153 dns-monitor HostDnsMonitor: unchanged
+52:36:43.168807 dns-monitor HostDnsMonitor: updating information
+52:36:43.168847 dns-monitor HostDnsMonitor: unchanged
+53:02:05.283865 USBPROXY usbLibGetDevices: Starting USB device enumeration
+53:02:05.628741 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+53:02:05.628923 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+53:02:05.713891 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+53:28:59.766851 USBPROXY usbLibGetDevices: Starting USB device enumeration
+53:28:59.774133 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+53:28:59.774327 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+53:28:59.774914 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+53:29:04.725239 USBPROXY usbLibGetDevices: Starting USB device enumeration
+53:29:04.734681 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+53:29:04.734801 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+53:29:04.735094 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+53:29:11.231286 dns-monitor HostDnsMonitor: updating information
+53:29:11.231351 dns-monitor HostDnsMonitor: unchanged
+53:31:13.136421          Saving settings file "C:\Users\jsingh\VirtualBox VMs\Windows10_Geico 2\Windows10_Geico 2.vbox" with version "1.15-windows"
+53:31:13.880527          Saving settings file "C:\Users\jsingh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+53:31:16.937831          Saving settings file "C:\Users\jsingh\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+53:36:43.352988 dns-monitor HostDnsMonitor: updating information
+53:36:43.353016 dns-monitor HostDnsMonitor: unchanged
+53:37:20.777966 USBPROXY usbLibGetDevices: Starting USB device enumeration
+53:37:20.783597 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1424d799&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+53:37:20.783839 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+53:37:20.783887 USBPROXY USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00df)
+53:37:23.962907 main     VirtualBox: object deletion starts
+53:37:23.962965 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\jsingh\VirtualBox VMs\Windows10_Geico\Windows10_Geico-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+53:37:23.963466 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\jsingh\VirtualBox VMs\Windows10_Geico 1\Windows10_Geico-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+53:37:23.963833 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\jsingh\VirtualBox VMs\Windows10_Geico 2\Windows10_Geico-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+53:37:23.964681 main     HostDnsMonitor: shutting down ...
+53:37:23.964780 main     HostDnsMonitor: shut down
+53:37:23.966557 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+53:37:23.966697 main     VirtualBox: object deleted

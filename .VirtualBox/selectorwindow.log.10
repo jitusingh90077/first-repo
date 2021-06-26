@@ -1,0 +1,20 @@
+00:00:03.137778 VirtualBox GUI VM Selector Window 6.1.0 r135406 win.amd64 (Dec 10 2019 14:34:16) release log
+00:00:03.137781 Log opened 2021-06-11T01:11:24.320048900Z
+00:00:03.137782 Build Type: release
+00:00:03.137787 OS Product: Windows 10
+00:00:03.137788 OS Release: 10.0.19042
+00:00:03.137789 OS Service Pack: 
+00:00:03.301127 DMI Product Name: HP ProBook 450 G7
+00:00:03.359363 DMI Product Version:  
+00:00:03.359392 Firmware type: UEFI
+00:00:03.360119 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:03.360159 Host RAM: 16221MB (15.8GB) total, 12030MB (11.7GB) available
+00:00:03.360171 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:03.360173 Process ID: 8644
+00:00:03.360175 Package type: WINDOWS_64BITS_GENERIC
+00:00:03.360547 Qt version: 5.6.2
+00:00:03.409742 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:04.341266 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:40:57.916286 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:41:10.043043 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:50:46.449636 GUI: UICommon::sltHandleCommitDataRequest: Emergency shutdown initiated

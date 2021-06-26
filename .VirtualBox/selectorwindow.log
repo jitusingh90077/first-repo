@@ -1,0 +1,18 @@
+00:00:01.514825 VirtualBox GUI VM Selector Window 6.1.0 r135406 win.amd64 (Dec 10 2019 14:34:16) release log
+00:00:01.514827 Log opened 2021-06-24T01:13:30.688004900Z
+00:00:01.514827 Build Type: release
+00:00:01.514830 OS Product: Windows 10
+00:00:01.514831 OS Release: 10.0.19042
+00:00:01.514831 OS Service Pack: 
+00:00:01.600113 DMI Product Name: HP ProBook 450 G7
+00:00:01.631992 DMI Product Version:  
+00:00:01.632031 Firmware type: UEFI
+00:00:01.632341 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.632357 Host RAM: 16221MB (15.8GB) total, 9638MB (9.4GB) available
+00:00:01.632361 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.632362 Process ID: 15356
+00:00:01.632363 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.632536 Qt version: 5.6.2
+00:00:01.791591 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.633413 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.661234 refreshCertificates/#3: Found 1/67 SSL certs we/you trust (previously 1/65).
